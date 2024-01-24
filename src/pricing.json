@@ -1,0 +1,95 @@
+{
+ "cenovky":[
+    { "id":1,
+    "nazov":"Book studio A ",
+    "popis":"Studio A with a Professional Sound Engineer and all gear listed in gear tab. ",
+    "cena":"35€/hour"
+    },
+    { "id":2,
+    "nazov":"Book studio A - DAY ",
+    "popis":"Full recording day at Studio A with a Professional Sound Engineer and all gear listed in gear tab. 10 hour day.",
+    "cena":"300€/day"
+    },
+    { "id":3,
+    "nazov":"Audio/Video postproduction",
+    "popis":"Postproduction of your project such as editing, mixing and mastering of your song or editing and color grading your video or photo.",
+    "cena":"30€/hour"
+    },
+    { "id":4,
+    "nazov":"Large Project",
+    "popis":"We offer discounted prices on projects that exceed one production day.",
+    "cena":"Contact for info!"
+    },
+    { "id":4,
+    "nazov":"Field Recording",
+    "popis":"Professional field recording of audio, useful for film productions or documentary.",
+    "cena":"32€/hour"
+    },
+    { "id":5,
+    "nazov":"Renting gear",
+    "popis":"All gear can be rented for 5% of its price a day. Discounted price when renting for multiple days.",
+    "cena":"Contact for info"
+    },
+    { "id":6,
+    "nazov":"Cinema Crew",
+    "popis":"all gear can be rented for 5% of its price a day. Discounted price when renting for multiple days.",
+    "cena":"Contact for info"
+    }
+ ],
+ "audio":[
+   {"id":1,
+     "nazov":"Console",
+      "popis":"Otari Concept one 32 channel Anlaogue Mixing console"
+   },
+   {"id":2,
+     "nazov":"Recording",
+      "popis":"Fostex G24s Reel to Reel, Behringer UMC 1820 converters"
+   },
+   {"id":3,
+     "nazov":"Microphones",
+      "popis":"AKG C1000s stereo pair, Beyerdynamic L50d, AKG K24, Shure SM57s, Shure PGA98 and many more"
+   },
+   {"id":4,
+     "nazov":"Outboard Gear",
+      "popis":"Alesis Midiverb III, Digitech StudioQuad, Furmann Stereo  Compressor LC-6, Houdek HD900 Delay, Behringer MDX 2600, MDX 1400, More reel to reels, casette recorders, effect units..."
+   },
+   {"id":5,
+     "nazov":"Monitors/Headphones",
+      "popis":"Yamaha HS7, Tesla ARS 944, Beyerdynamic 770Pro, AudioTechnica M-20X, AKG K511"
+   },
+   {"id":6,
+     "nazov":"DAW",
+      "popis":"Avid Pro Tools Studio"
+   },
+   {"id":7,
+     "nazov":"Instruments",
+      "popis":"Fender Telecaster, Fender Stratocaster, Rolad Juno G, Hohner HW-700S, TAMA Swingstar 1986 Drum kit, Mapex Tornado Drum kit, Vintage Jolana Galaxis Bass, and other..."
+   },
+   {"id":8,
+     "nazov":"Guitar Amps",
+      "popis":"Vox AC30VR"
+   }
+ ],
+ "video":[
+   {"id":1,
+     "nazov":"Software",
+      "popis":"SoftwareDaVinci Resolve, Affinity photo"
+   },
+   {"id":2,
+     "nazov":"Cameras",
+      "popis":"Panasonic DMC GH4 cinema rig, Canon 600d stills camera, Practica L2, Zenit -E, SONY CCD TR-748E, Polaroid 3000"
+   },
+   {"id":3,
+     "nazov":"Lenses",
+      "popis":"Canon EF-S 18-55mm IS STM, Pentacon 29mm F2.8 Cine, Pentacon 50mm F1.8 Cine, Helios 44m F2.8 58mm, Pentacon 80mm F2.8, ENNA MUNCHEN 240mm F4.5"
+   },
+   {"id":4,
+     "nazov":"Lighting",
+      "popis":"2Pcs 120x80cm Softbox 5500K, 60W Tungsten practical lights etc."
+   },
+   {"id":5,
+     "nazov":"Accessories",
+      "popis":"Came TV wireless follow focus, External monitors, HiFly 2.8Kg Gimbal, tripods, handheld rig etc."
+   }
+ ]
+}
